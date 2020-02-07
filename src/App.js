@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <p>automatic build?</p>
+        <p>automatic build with one pipeline??</p>
         <a
           className="App-link"
           href="https://reactjs.org"
