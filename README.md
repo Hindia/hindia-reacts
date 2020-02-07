@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/hindia/MyProject/_apis/build/status/hindia-reacts%20-%20CI?branchName=master)](https://dev.azure.com/hindia/MyProject/_build/latest?definitionId=1&branchName=master)
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
