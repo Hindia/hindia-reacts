@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <p>This is changed from GitHub</p>
+        <p>automatic build?</p>
         <a
           className="App-link"
           href="https://reactjs.org"
